@@ -2,6 +2,7 @@
 Лабораторная работа №6
 
 Скриншоты
+
 ![](screenshots/console1.png)
 ![](screenshots/console2.png)
 ![](screenshots/console3.png)
