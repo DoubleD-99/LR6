@@ -9,6 +9,7 @@
 ![](screenshots/console5.png)
 ![](screenshots/console6.png)
 ![](screenshots/console7.png)
+![](screenshots/console8.png)
 
 Лог команд
 ```bash
